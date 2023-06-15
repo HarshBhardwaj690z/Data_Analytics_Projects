@@ -1,0 +1,20 @@
+RETAIL DATA ANALYSIS INSIGHTS
+-----------------------------
+
+1) Campaign Number 15 has longest hour of duration runtime and least coupon get redeemed in this ca,paign.
+2) Campaign Number 8, 13 and 18 has most participants and coupon redeemed 
+3) Total household is 2500, Total campaigns till now is 30 in which total coupun get redeeemed is 556.
+4) Marital Status wise single people redeem coupon and participated in campaign more often follow by married
+5) Age wise People fall under the age group of 45-54 are are more likely to participate in Campaigns
+6) Income wise follow who earns between 50-74k are like to be a part of Campaign.
+7) According to data Previous year most of the coupons are redeemed in the month of august.
+
+1) Married people around age of 45 to 54 spend more on the average on products rather than others as they has more income to spend.
+2) Homeowner's 2 adult with no kids having more population as per data
+3) Transaction per customer is 1.04k
+4) Revenue per customer is 3.22k
+5) Unit per Transaction is 100.43
+
+1) Grocery is remained number one as per Total sales (Beef) and Quantity sold (Fluid Milk Products)
+2) National Brands has more market coverage.
+3) As Per Average sales Kiosk-Gas ranked number 1.
